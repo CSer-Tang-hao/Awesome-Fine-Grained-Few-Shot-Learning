@@ -41,7 +41,8 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: | **CVPR** | Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.html)/[Code](https://github.com/Tsingularity/PoseNorm_Fewshot)   
-:scroll: | **IJCAI** | Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.html)/[Code](https://github.com/Tsingularity/PoseNorm_Fewshot)   
+:scroll: | **IJCAI** | Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.html)/Code  
+:scroll: | **ICME** | Knowledge-Based Fine-Grained Classification For Few-Shot Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/9102809)/Code 
 :scroll: | **TIE** | Few-Shot Learning for Domain-Specific Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9027090)/[Code](https://github.com/xhw205/Domain-specific-Fewshot-Learning)   
 :scroll: | **TMM** | Low-Rank Pairwise Alignment Bilinear Network For Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9115215)/Code   
 :triangular_flag_on_post: | **TIP** | BSNet: Bi-similarity network for few-shot fine-grained image classification | [Paper](https://ieeexplore.ieee.org/document/9293172)/[Code](https://github.com/PRIS-CV/BSNet)   
