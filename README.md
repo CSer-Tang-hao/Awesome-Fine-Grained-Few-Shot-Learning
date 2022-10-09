@@ -13,5 +13,5 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **ACMMM** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-604.YanP.pdf)/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
-:triangular_flag_on_post: 02 | **AAAI** | A Causal Debiasing Framework for Unsupervised Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-108.LinX.pdf)/Code 
+ :triangular_flag_on_post: | **arXiv** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/Code
+ :triangular_flag_on_post: | **PR** | Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002734)/[Code](https://github.com/CSer-Tang-hao/AGPF-FSFG) 
