@@ -2,11 +2,13 @@
 
 
 A curated list of resources including papers, datasets, and relevant links about few-shot learning in fine-grained image/video recognition. Since both few-shot and fine-grained are very broad concepts, there are various experimental settings and research lines in the realm of fine-grained few-shot learning.
+
 --------------------------------------------------------------------------------------
 
 :running: **We will keep updating it.** :running:    
 
 --------------------------------------------------------------------------------------
+
 # Image Classification
 
 ## 2022       
