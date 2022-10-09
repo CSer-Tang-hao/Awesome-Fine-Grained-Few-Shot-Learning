@@ -41,7 +41,7 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: | **CVPR** | Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.html)/[Code](https://github.com/Tsingularity/PoseNorm_Fewshot)   
-:scroll: | **IJCAI** | Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.html)/Code  
+:scroll: | **IJCAI** | Multi-attention Meta Learning for Few-shot Fine-grained Image Recognition | [Paper](https://www.ijcai.org/proceedings/2020/0152.pdf)/Code
 :scroll: | **ICME** | Knowledge-Based Fine-Grained Classification For Few-Shot Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/9102809)/Code 
 :scroll: | **TIE** | Few-Shot Learning for Domain-Specific Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9027090)/[Code](https://github.com/xhw205/Domain-specific-Fewshot-Learning)   
 :scroll: | **TMM** | Low-Rank Pairwise Alignment Bilinear Network For Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9115215)/Code   
@@ -50,6 +50,5 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 ## 2019       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:scroll: | **ICME** | Compare More Nuanced: Pairwise Alignment Bilinear Network for Few-Shot Fine-Grained Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/8784745)/Code   
-:scroll: | **IJCAI** | Multi-attention Meta Learning for Few-shot Fine-grained Image Recognition | [Paper](https://www.ijcai.org/proceedings/2020/0152.pdf)/Code 
+:scroll: | **ICME** | Compare More Nuanced: Pairwise Alignment Bilinear Network for Few-Shot Fine-Grained Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/8784745)/Code    
 :triangular_flag_on_post: | **TIP** | Piecewise Classifier Mappings: Learning Fine-Grained Learners for Novel Categories With Few Examples | [Paper](https://ieeexplore.ieee.org/abstract/document/8752297)/Code  
