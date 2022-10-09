@@ -17,6 +17,7 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 :triangular_flag_on_post: | **arXiv** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/Code   
 :scroll: | **arXiv** | Fine-grained Few-shot Recognition by Deep Object Parsing | [Paper](https://arxiv.org/abs/2207.07110)/Code 
 :scroll: | **arXiv** | Few-shot Fine-grained Image Classification via Multi-Frequency Neighborhood and Double-cross Modulation | [Paper](https://arxiv.org/abs/2207.08547)/[Code](https://github.com/ChengqingLi/FicNet)   
+:triangular_flag_on_post: | **MM** | Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification | [Paper](https://arxiv.org/abs/2207.00784)/[Code](https://github.com/JiakangYuan/HelixFormer) 
 :scroll: | **AAAI** | Dual Attention Networks for Few-Shot Fine-Grained Recognition | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1537.XuSL.pdf)/Code 
 :triangular_flag_on_post: | **CVPR** | Task Discrepancy Maximization for Fine-Grained Few-Shot Classification | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.html)/[Code](https://github.com/leesb7426/CVPR2022-Task-Discrepancy-Maximization-for-Fine-grained-Few-Shot-Classification) 
 :triangular_flag_on_post: | **PR** | Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002734)/[Code](https://github.com/CSer-Tang-hao/AGPF-FSFG)  
@@ -26,4 +27,4 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 ## 2021       
 **:star:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: | **ICCV** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/Code  
+:scroll: | **Neurocomputing** | Fine-grained few shot learning with foreground object transformation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221013746)/Code  
