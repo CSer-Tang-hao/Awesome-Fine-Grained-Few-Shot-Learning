@@ -33,8 +33,8 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 :triangular_flag_on_post: | **CVPR** | Few-Shot Classification With Feature Map Reconstruction Networks | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wertheimer_Few-Shot_Classification_With_Feature_Map_Reconstruction_Networks_CVPR_2021_paper.html)/[Code](https://github.com/Tsingularity/FRN)  
 :triangular_flag_on_post: | **MM** | Object-aware long-short-range spatial alignment for few-shot fine-grained image classification | [Paper](https://arxiv.org/abs/2108.13098)/Code
 :triangular_flag_on_post: | **ICCV** | Variational Feature Disentangling for Fine-Grained Few-Shot Classification | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Variational_Feature_Disentangling_for_Fine-Grained_Few-Shot_Classification_ICCV_2021_paper.html)/[Code](https://github.com/cvlab-stonybrook/vfd-iccv21)
-:scroll: | **Neurocomputing** | Fine-grained few shot learning with foreground object transformation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221013746)/Code  
-:scroll: | **Knowledge-Based Systems** | Few-shot fine-grained classification with Spatial Attentive Comparison | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121001039)/Code   
+:scroll: | **NC** | Fine-grained few shot learning with foreground object transformation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221013746)/Code  
+:scroll: | **KBS** | Few-shot fine-grained classification with Spatial Attentive Comparison | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121001039)/Code   
 :triangular_flag_on_post: | **TPAMI** | Power Normalizations in Fine-Grained Image, Few-Shot Image and Graph Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9521687/)/Code    
 
 ## 2020       
