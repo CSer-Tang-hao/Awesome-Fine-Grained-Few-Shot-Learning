@@ -27,6 +27,7 @@ In this repository, we mainly focus on few-shot learning in fine-grained image/v
 ## 2021       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
+:triangular_flag_on_post: | **ICIP** | Coupled Patch Similarity Network For One-Shot Fine-Grained Image Recognition | [Paper](https://ieeexplore.ieee.org/abstract/document/9506685/)/[Code](https://github.com/CSer-Tang-hao/CPSN-OSFG)  
 :triangular_flag_on_post: | **ICME** | Selective, Structural, Subtle: Trilinear Spatial-Awareness for Few-Shot Fine-Grained Visual Recognition | [Paper](https://ieeexplore.ieee.org/abstract/document/9428223/)/[Code](https://github.com/iCVTEAM/S3Net)  
 :triangular_flag_on_post: | **CVPR** | Few-Shot Classification With Feature Map Reconstruction Networks | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wertheimer_Few-Shot_Classification_With_Feature_Map_Reconstruction_Networks_CVPR_2021_paper.html)/[Code](https://github.com/Tsingularity/FRN)  
 :scroll: | **Neurocomputing** | Fine-grained few shot learning with foreground object transformation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231221013746)/Code  
