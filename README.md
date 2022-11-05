@@ -28,6 +28,7 @@ A curated list of resources including papers, datasets, and relevant links about
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :scroll: | **arXiv** | NDPNet: A novel non-linear data projection network for few-shot fine-grained image classification | [Paper](https://arxiv.org/abs/2106.06988)/Code  
+:triangular_flag_on_post: | **arXiv** | Compositional Fine-Grained Low-Shot Learning | [Paper](https://arxiv.org/abs/2105.10438)/Code  
 :triangular_flag_on_post: | **ICIP** | Coupled Patch Similarity Network For One-Shot Fine-Grained Image Recognition | [Paper](https://ieeexplore.ieee.org/abstract/document/9506685/)/[Code](https://github.com/CSer-Tang-hao/CPSN-OSFG)  
 :triangular_flag_on_post: | **ICME** | Selective, Structural, Subtle: Trilinear Spatial-Awareness for Few-Shot Fine-Grained Visual Recognition | [Paper](https://ieeexplore.ieee.org/abstract/document/9428223/)/[Code](https://github.com/iCVTEAM/S3Net)  
 :triangular_flag_on_post: | **CVPR** | Few-Shot Classification With Feature Map Reconstruction Networks | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wertheimer_Few-Shot_Classification_With_Feature_Map_Reconstruction_Networks_CVPR_2021_paper.html)/[Code](https://github.com/Tsingularity/FRN)  
@@ -45,7 +46,10 @@ A curated list of resources including papers, datasets, and relevant links about
 :scroll: | **ICME** | Knowledge-Based Fine-Grained Classification For Few-Shot Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/9102809)/Code 
 :scroll: | **TIE** | Few-Shot Learning for Domain-Specific Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9027090)/[Code](https://github.com/xhw205/Domain-specific-Fewshot-Learning)   
 :scroll: | **TMM** | Low-Rank Pairwise Alignment Bilinear Network For Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/9115215)/Code   
-:triangular_flag_on_post: | **TIP** | BSNet: Bi-similarity network for few-shot fine-grained image classification | [Paper](https://ieeexplore.ieee.org/document/9293172)/[Code](https://github.com/PRIS-CV/BSNet)   
+:triangular_flag_on_post: | **TIP** | BSNet: Bi-similarity network for few-shot fine-grained image classification | [Paper](https://ieeexplore.ieee.org/document/9293172)/[Code](https://github.com/PRIS-CV/BSNet)    
+:scroll: | **ACL** | Shaping Visual Representations with Language for Few-shot Classification | [Paper](https://arxiv.org/abs/1911.02683)/[Code](https://github.com/jayelm/lsl)  
+:triangular_flag_on_post: | **NeurIPS** | Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition | [Paper](https://proceedings.neurips.cc/paper/2020/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf)/[Code](https://github.com/hbdat/neurIPS20_CompositionZSL) 
+
 
 ## 2019       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
