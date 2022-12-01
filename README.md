@@ -10,6 +10,10 @@ A curated list of resources including papers, datasets, and relevant links about
 --------------------------------------------------------------------------------------
 
 # Image Classification
+## 2023        
+**:open_file_folder:** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-:   
+:triangular_flag_on_post: | **arXiv** | Bi-directional Feature Reconstruction Network for Fine-Grained Few-Shot Image Classification | [Paper](https://arxiv.org/abs/2211.17161)/[Code](https://github.com/PRIS-CV/Bi-FRN)   
 
 ## 2022       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
