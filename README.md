@@ -5,7 +5,7 @@ A curated list of resources including papers, datasets, and relevant links about
 
 --------------------------------------------------------------------------------------
 
-:running: **We will keep updating it.** :running:    
+:running: **We will keep updating it,  please feel free to send me a PR!** :running:    
 
 --------------------------------------------------------------------------------------
 
@@ -60,3 +60,9 @@ A curated list of resources including papers, datasets, and relevant links about
 :-: | :-: | :-  | :-: 
 :scroll: | **ICME** | Compare More Nuanced: Pairwise Alignment Bilinear Network for Few-Shot Fine-Grained Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/8784745)/Code    
 :triangular_flag_on_post: | **TIP** | Piecewise Classifier Mappings: Learning Fine-Grained Learners for Novel Categories With Few Examples | [Paper](https://ieeexplore.ieee.org/abstract/document/8752297)/Code  
+
+# Video Classification
+## 2021        
+**:open_file_folder:** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-:   
+:triangular_flag_on_post: | **MM** | Few-Shot Fine-Grained Action Recognition via Bidirectional Attention and Contrastive Meta-Learning | [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475216)/[Code](https://github.com/acewjh/FSFG)   
