@@ -6,11 +6,11 @@ A curated list of resources including papers, datasets, and relevant links about
 --------------------------------------------------------------------------------------
 
 :running: **We will keep updating it,  please feel free to send me a PR!** :running:  
+:triangular_flag_on_post: **indicates some interesting or inspiring ideas**  
 
 --------------------------------------------------------------------------------------
 
 # Image Classification
-:triangular_flag_on_post: **indicates some interesting or inspiring ideas**  
 
 ## 2023        
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
