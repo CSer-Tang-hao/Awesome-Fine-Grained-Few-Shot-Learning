@@ -16,11 +16,11 @@ A curated list of resources including papers, datasets, and relevant links about
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:   
 :triangular_flag_on_post: | **AAAI** | Bi-directional Feature Reconstruction Network for Fine-Grained Few-Shot Image Classification | [Paper](https://arxiv.org/abs/2211.17161)/[Code](https://github.com/PRIS-CV/Bi-FRN)   
+:triangular_flag_on_post: | **TCSVT** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/[Code](https://github.com/CSer-Tang-hao/BSFA-FSFG)    
 
 ## 2022       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-:   
-:triangular_flag_on_post: | **arXiv** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/Code   
+:-: | :-: | :-  | :-: 
 :scroll: | **arXiv** | Fine-grained Few-shot Recognition by Deep Object Parsing | [Paper](https://arxiv.org/abs/2207.07110)/Code 
 :scroll: | **arXiv** | Few-shot Fine-grained Image Classification via Multi-Frequency Neighborhood and Double-cross Modulation | [Paper](https://arxiv.org/abs/2207.08547)/[Code](https://github.com/ChengqingLi/FicNet)   
 :triangular_flag_on_post: | **MM** | Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification | [Paper](https://arxiv.org/abs/2207.00784)/[Code](https://github.com/JiakangYuan/HelixFormer) 
