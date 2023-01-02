@@ -1,8 +1,7 @@
 # Awesome-Fine-Grained-Few-Shot-Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 
 
-A curated list of resources including papers, datasets, and relevant links about few-shot learning in fine-grained image/video recognition. Since both few-shot and fine-grained are very broad concepts, there are various experimental settings and research lines in the realm of fine-grained few-shot learning.  
-:triangular_flag_on_post: **indicates some interesting or inspiring ideas**  
+A curated list of resources including papers, datasets, and relevant links about few-shot learning in fine-grained image/video recognition. Since both few-shot and fine-grained are very broad concepts, there are various experimental settings and research lines in the realm of fine-grained few-shot learning. 
 
 --------------------------------------------------------------------------------------
 
@@ -11,6 +10,8 @@ A curated list of resources including papers, datasets, and relevant links about
 --------------------------------------------------------------------------------------
 
 # Image Classification
+:triangular_flag_on_post: **indicates some interesting or inspiring ideas**  
+
 ## 2023        
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:   
