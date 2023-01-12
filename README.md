@@ -10,6 +10,15 @@ A curated list of resources including papers, datasets, and relevant links about
 
 --------------------------------------------------------------------------------------
 
+# Datasets Download    
+ - **CUB_200_2011** [Dataset Page](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) | [Download Link](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
+ - **FGVC-Aircraft** [Dataset Page](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) | [Download Link](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/archives/fgvc-aircraft-2013b.tar.gz)
+ - **iNaturalist2017** [Dataset Page](https://github.com/visipedia/inat_comp/tree/master/2017) | [Download Data](https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_val_images.tar.gz) | [Download Annotations](https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_2017_bboxes.zip)
+ - **Stanford-Cars** [Dataset Page](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)  
+ - **Stanford-Dogs** [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
+--------------------------------------------------------------------------------------
+
 # Image Classification
 
 ## 2023        
