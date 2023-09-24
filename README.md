@@ -28,6 +28,7 @@ A curated list of resources including papers, datasets, and relevant links about
 :triangular_flag_on_post: | **TCSVT** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/[Code](https://github.com/CSer-Tang-hao/BSFA-FSFG)    
 :scroll: | **TCSVT** | Locally-Enriched Cross-Reconstruction for Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/10123101)/[Code](https://github.com/lutsong/LCCRN)    
 :scroll: | **arXiv** | Saliency-Guided Mutual Learning Network for Few-shot Fine-grained Visual Recognition | [Paper](https://arxiv.org/abs/2305.07180)/Code      
+:triangular_flag_on_post: | **arXiv** | Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions | [Paper](https://arxiv.org/abs/2309.08097)/Code      
 
 ## 2022       
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
@@ -78,4 +79,9 @@ A curated list of resources including papers, datasets, and relevant links about
 ## 2021        
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:   
-:triangular_flag_on_post: | **MM** | Few-Shot Fine-Grained Action Recognition via Bidirectional Attention and Contrastive Meta-Learning | [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475216)/[Code](https://github.com/acewjh/FSFG)   
+:triangular_flag_on_post: | **MM** | Few-Shot Fine-Grained Action Recognition via Bidirectional Attention and Contrastive Meta-Learning | [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475216)/[Code](https://github.com/acewjh/FSFG) 
+
+## 2023        
+**:open_file_folder:** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-:   
+:triangular_flag_on_post: | **MM** | M$^3$Net: Multi-view Encoding, Matching, and Fusion for Few-shot Fine-grained Action Recognition | [Paper](https://arxiv.org/abs/2308.03063)/Code
