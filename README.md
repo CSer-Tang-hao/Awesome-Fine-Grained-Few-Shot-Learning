@@ -34,7 +34,7 @@ A curated list of resources including papers, datasets, and relevant links about
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:   
 :triangular_flag_on_post: | **AAAI** | Bi-directional Feature Reconstruction Network for Fine-Grained Few-Shot Image Classification | [Paper](https://arxiv.org/abs/2211.17161)/[Code](https://github.com/PRIS-CV/Bi-FRN)   
-:triangular_flag_on_post: | **AAAI** | Dual Attention Networks for Few-Shot Fine-Grained Recognition | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20196)/Code
+:scroll: | **AAAI** | Dual Attention Networks for Few-Shot Fine-Grained Recognition | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20196)/Code
 :triangular_flag_on_post: | **TCSVT** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/[Code](https://github.com/CSer-Tang-hao/BSFA-FSFG)    
 :scroll: | **TCSVT** | Locally-Enriched Cross-Reconstruction for Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/10123101)/[Code](https://github.com/lutsong/LCCRN)    
 :scroll: | **arXiv** | Saliency-Guided Mutual Learning Network for Few-shot Fine-grained Visual Recognition | [Paper](https://arxiv.org/abs/2305.07180)/Code      
