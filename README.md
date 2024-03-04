@@ -6,7 +6,8 @@ A curated list of resources including papers, datasets, and relevant links about
 --------------------------------------------------------------------------------------
 
 :running: **We will keep updating it,  please feel free to send me a PR!** :running:  
-
+:triangular_flag_on_post: **For detailed attention**
+:scroll: **For a quick review**
 --------------------------------------------------------------------------------------
 
 # Datasets Download    
@@ -19,9 +20,6 @@ A curated list of resources including papers, datasets, and relevant links about
 --------------------------------------------------------------------------------------
 
 # Image Classification
-
-:triangular_flag_on_post: **For detailed attention**
-:scroll: **For a quick review**
 
 ## 2024        
 **:open_file_folder:** | **Pub.** | **Title** | **Links** 
