@@ -37,7 +37,6 @@ A curated list of resources including papers, datasets, and relevant links about
 :scroll: | **AAAI** | Dual Attention Networks for Few-Shot Fine-Grained Recognition | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20196)/Code
 :triangular_flag_on_post: | **TCSVT** | Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment | [Paper](https://arxiv.org/abs/2210.01439)/[Code](https://github.com/CSer-Tang-hao/BSFA-FSFG)    
 :scroll: | **TCSVT** | Locally-Enriched Cross-Reconstruction for Few-Shot Fine-Grained Image Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/10123101)/[Code](https://github.com/lutsong/LCCRN)    
-:scroll: | **arXiv** | Saliency-Guided Mutual Learning Network for Few-shot Fine-grained Visual Recognition | [Paper](https://arxiv.org/abs/2305.07180)/Code      
 :triangular_flag_on_post: | **arXiv** | Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions | [Paper](https://arxiv.org/abs/2309.08097)/Code      
 
 ## 2022       
